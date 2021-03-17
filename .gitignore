@@ -1,0 +1,5 @@
+__pycache__
+
+tkst/build
+tkst/dist
+tkst/tkst.egg-info
