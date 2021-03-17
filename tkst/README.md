@@ -76,4 +76,4 @@ if __name__ == "__main__": # fancy way of starting the main function
 - Et vóila! That's your first program that you can easily test on your computer before displaying it on an ST7789.
 
 # Examples
-Check out a couple of examples on my [github repo](https://github.com/mmmsoup/tkst/tree/main/examples)
+Check out a couple of examples on my [github repo](https://github.com/mmmsoup/tkst/tree/master/examples)
